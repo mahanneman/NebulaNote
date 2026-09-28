@@ -6,7 +6,7 @@
 Nebula Note is a lightweight desktop tool for fast note-taking, macro recording, and session export. It runs as a compact always-on-top window with global shortcuts, a floating triangle icon, live preview, and multi-format export.
 
 > Author: **ma.ad.gh mahanneman**  
-> Repository: [github.com/mahanneman/cosmic-keylogger](https://github.com/mahanneman/cosmic-keylogger)
+> Repository: [https://github.com/mahanneman/NebulaNote](https://github.com/mahanneman/NebulaNote)
 
 ---
 
