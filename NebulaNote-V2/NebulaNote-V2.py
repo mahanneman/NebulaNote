@@ -3,7 +3,7 @@
 Nebula Note  Professional
 Modern floating input logger & note assistant.
 Author : ma.ad.gh mahanneman
-GitHub : https://github.com/mahanneman/cosmic-keylogger
+GitHub : https://github.com/mahanneman/NebulaNote
 
 Improvements in :
 - Cleaner architecture & better error handling
@@ -120,7 +120,7 @@ def _ck_check_deps() -> List[str]:
 # ═══════════════════════════════════════════════════════════
 APP_NAME = "Nebula Note"
 APP_VER = "4.4 Final"
-APP_REPO = "https://github.com/mahanneman/cosmic-keylogger"
+APP_REPO = "https://github.com/mahanneman/NebulaNote"
 CONFIG_PATH = os.path.join(_ck_log_dir(), "settings.json")
 
 C = {
