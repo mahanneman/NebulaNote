@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Nebula Note v4.3 Professional
+Nebula Note  Professional
 Modern floating input logger & note assistant.
 Author : ma.ad.gh mahanneman
 GitHub : https://github.com/mahanneman/cosmic-keylogger
 
-Improvements in v4.3:
+Improvements in :
 - Cleaner architecture & better error handling
 - Persistent settings (JSON config)
 - Professional UI polish (spacing, hover states, status feedback)
@@ -236,7 +236,7 @@ I18N = {
         "snip_code": "```\n\n```",
         "snip_link": "[متن](https://)",
         "recent_title": "اخیر",
-        "help_body": """راهنمای Nebula Note v4.3 Professional
+        "help_body": """راهنمای Nebula Note  Professional
 ساخته شده توسط ma.ad.gh mahanneman
 
 شورتکات‌های سراسری (Ctrl+Shift+...):
@@ -347,7 +347,7 @@ I18N = {
         "snip_code": "```\n\n```",
         "snip_link": "[text](https://)",
         "recent_title": "Recent",
-        "help_body": """Nebula Note v4.3 Professional Help
+        "help_body": """Nebula Note  Professional Help
 by ma.ad.gh mahanneman
 
 Global shortcuts (Ctrl+Shift+...):
@@ -393,7 +393,7 @@ Local shortcuts (inside text box):
         "menu_undo": "تراجع", "menu_redo": "إعادة", "menu_find": "بحث", "menu_clear_all": "مسح النص",
         "menu_dup_line": "تكرار السطر", "menu_copy_all": "نسخ الكل",
         "readonly_on": "🔒 مقفل", "readonly_off": "🔓 مفتوح",
-        "help_body": "مساعدة Nebula Note v4.3\n\nاختصارات Ctrl+Shift+Q/W/E/A/Z/X/C/F/G/R/U/T/B/H/I/K/V/L/Y/P/M/J/S/F1"
+        "help_body": "مساعدة Nebula Note \n\nاختصارات Ctrl+Shift+Q/W/E/A/Z/X/C/F/G/R/U/T/B/H/I/K/V/L/Y/P/M/J/S/F1"
     },
     "de": {
         "start": "▶ Start", "stop": "⏹ Stop", "save": "💾 Speichern",
@@ -421,7 +421,7 @@ Local shortcuts (inside text box):
         "menu_find": "Suchen", "menu_clear_all": "Text leeren",
         "menu_dup_line": "Zeile duplizieren", "menu_copy_all": "Alles kopieren",
         "readonly_on": "🔒 Gesperrt", "readonly_off": "🔓 Entsperrt",
-        "help_body": "Nebula Note v4.3 Hilfe\n\nCtrl+Shift+Q/W/E/A/Z/X/C/F/G/R/U/T/B/H/I/K/V/L/Y/P/M/J/S/F1"
+        "help_body": "Nebula Note  Hilfe\n\nCtrl+Shift+Q/W/E/A/Z/X/C/F/G/R/U/T/B/H/I/K/V/L/Y/P/M/J/S/F1"
     },
     "fr": {
         "start": "▶ Démarrer", "stop": "⏹ Arrêter", "save": "💾 Enregistrer",
@@ -451,7 +451,7 @@ Local shortcuts (inside text box):
         "menu_find": "Rechercher", "menu_clear_all": "Effacer le texte",
         "menu_dup_line": "Dupliquer ligne", "menu_copy_all": "Tout copier",
         "readonly_on": "🔒 Verrouillé", "readonly_off": "🔓 Déverrouillé",
-        "help_body": "Nebula Note v4.3 Aide\n\nCtrl+Shift+Q/W/E/A/Z/X/C/F/G/R/U/T/B/H/I/K/V/L/Y/P/M/J/S/F1"
+        "help_body": "Nebula Note  Aide\n\nCtrl+Shift+Q/W/E/A/Z/X/C/F/G/R/U/T/B/H/I/K/V/L/Y/P/M/J/S/F1"
     },
 }
 
@@ -1071,7 +1071,7 @@ class Exporter:
         labels_json = json.dumps(labels, ensure_ascii=False)
         script = f'''#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Auto-generated playback script by Nebula Note v4.3"""
+"""Auto-generated playback script by Nebula Note """
 import tkinter as tk
 import json, time, threading, sys
 try:
