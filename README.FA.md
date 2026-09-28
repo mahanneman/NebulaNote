@@ -107,14 +107,14 @@ py -m pip install pynput pystray Pillow pandas openpyxl
 pip install pynput pystray Pillow pandas openpyxl
 ```
 
-3. مخزن را دانلود یا کلون کنید و فایل اصلی برنامه (مثلاً `NebulaNote_Final.py`) را در پوشه دلخواه بگذارید.
+3. مخزن را دانلود یا کلون کنید و فایل اصلی برنامه (مثلاً `NebulaNote-V*.py`) را در پوشه دلخواه بگذارید.
 
 ---
 
 ## اجرا
 
 ```bash
-py NebulaNote_Final.py
+py NebulaNote-V*.py
 ```
 
 **نکات**
