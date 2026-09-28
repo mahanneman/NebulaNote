@@ -77,7 +77,7 @@ py -m pip install pynput pystray Pillow pandas openpyxl
 ## اجرا
 
 ```bash
-py NebulaNote_Final.py
+py NebulaNote-V*.py
 ```
 
 اگر شورتکات‌های سراسری ثبت نشدند، ترمینال را **با دسترسی Administrator** اجرا کنید.
