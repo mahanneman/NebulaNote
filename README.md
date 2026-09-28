@@ -107,20 +107,20 @@ Equivalent with `pip` if that is what your system uses:
 pip install pynput pystray Pillow pandas openpyxl
 ```
 
-3. Download or clone this repository, then place `NebulaNote_Final.py` (or the version file you use) in a folder of your choice.
+3. Download or clone this repository, then place `NebulaNote-V*.py` (or the version file you use) in a folder of your choice.
 
 ---
 
 ## Run
 
 ```bash
-py NebulaNote_Final.py
+py NebulaNote-V*.py
 ```
 
 If your file uses another name (for example a versioned release):
 
 ```bash
-py NebulaNote_Final.py
+py NebulaNote-V*.py
 ```
 
 **Tips**
