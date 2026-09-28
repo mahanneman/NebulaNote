@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
 # Nebula Note
 
 **Modern floating note assistant & input logger**
