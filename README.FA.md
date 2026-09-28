@@ -6,10 +6,7 @@
 نبولا نوت یک ابزار سبک دسکتاپ برای یادداشت سریع، ضبط ماکرو و خروجی جلسه است. به صورت پنجره جمع‌وجور همیشه بالای صفحه اجرا می‌شود؛ شورتکات سراسری، آیکون مثلثی شناور، پیش‌نمایش زنده و خروجی چندفرمتی دارد.
 
 > سازنده: **ma.ad.gh mahanneman**  
-> مخزن: [github.com/mahanneman/cosmic-keylogger](https://github.com/mahanneman/cosmic-keylogger)
-
----
-
+> مخزن [https://github.com/mahanneman/NebulaNote](https://github.com/mahanneman/NebulaNote)
 ## امکانات
 
 ### یادداشت‌برداری
