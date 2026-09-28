@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
 # نبولا نوت (Nebula Note)
 
 **دستیار یادداشت شناور و ثبت ورودی مدرن**
