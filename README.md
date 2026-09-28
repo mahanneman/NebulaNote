@@ -80,7 +80,7 @@ py -m pip install pynput pystray Pillow pandas openpyxl
 ## Run
 
 ```bash
-py NebulaNote_Final.py
+py NebulaNote-V*.py.py
 ```
 
 If global hotkeys do not register, run the terminal **as Administrator**.
